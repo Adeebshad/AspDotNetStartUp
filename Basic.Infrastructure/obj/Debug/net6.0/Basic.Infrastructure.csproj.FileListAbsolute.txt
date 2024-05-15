@@ -1,0 +1,14 @@
+E:\Adeeb\Basic\Basic\Basic.Infrastructure\bin\Debug\net6.0\Basic.Infrastructure.deps.json
+E:\Adeeb\Basic\Basic\Basic.Infrastructure\bin\Debug\net6.0\Basic.Infrastructure.runtimeconfig.json
+E:\Adeeb\Basic\Basic\Basic.Infrastructure\bin\Debug\net6.0\Basic.Infrastructure.dll
+E:\Adeeb\Basic\Basic\Basic.Infrastructure\bin\Debug\net6.0\Basic.Infrastructure.pdb
+E:\Adeeb\Basic\Basic\Basic.Infrastructure\obj\Debug\net6.0\Basic.Infrastructure.csproj.AssemblyReference.cache
+E:\Adeeb\Basic\Basic\Basic.Infrastructure\obj\Debug\net6.0\Basic.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Adeeb\Basic\Basic\Basic.Infrastructure\obj\Debug\net6.0\Basic.Infrastructure.AssemblyInfoInputs.cache
+E:\Adeeb\Basic\Basic\Basic.Infrastructure\obj\Debug\net6.0\Basic.Infrastructure.AssemblyInfo.cs
+E:\Adeeb\Basic\Basic\Basic.Infrastructure\obj\Debug\net6.0\Basic.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Adeeb\Basic\Basic\Basic.Infrastructure\obj\Debug\net6.0\Basic.Infrastructure.dll
+E:\Adeeb\Basic\Basic\Basic.Infrastructure\obj\Debug\net6.0\refint\Basic.Infrastructure.dll
+E:\Adeeb\Basic\Basic\Basic.Infrastructure\obj\Debug\net6.0\Basic.Infrastructure.pdb
+E:\Adeeb\Basic\Basic\Basic.Infrastructure\obj\Debug\net6.0\Basic.Infrastructure.genruntimeconfig.cache
+E:\Adeeb\Basic\Basic\Basic.Infrastructure\obj\Debug\net6.0\ref\Basic.Infrastructure.dll

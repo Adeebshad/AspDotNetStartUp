@@ -1,0 +1,17 @@
+start from creating interface
+
+
+{
+
+  "firstName": "AAAAadsad",
+  "lastName": "BBBBsasdadtring",
+  "phone": "0984",
+  "customerAddresses": [
+    {
+    
+      "city": "Dhks",
+      "country": "BD",
+     
+    }
+  ]
+}
