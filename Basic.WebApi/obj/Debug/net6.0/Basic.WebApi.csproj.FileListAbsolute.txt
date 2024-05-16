@@ -328,6 +328,7 @@ E:\Adeeb\Assignment_Summit\EF_Unit_of_Works_Repository_Pattern\Basic.WebApi\bin\
 E:\Adeeb\Assignment_Summit\EF_Unit_of_Works_Repository_Pattern\Basic.WebApi\bin\Debug\net6.0\AutoMapper.dll
 E:\Adeeb\Assignment_Summit\EF_Unit_of_Works_Repository_Pattern\Basic.WebApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 E:\Adeeb\Assignment_Summit\EF_Unit_of_Works_Repository_Pattern\Basic.WebApi\bin\Debug\net6.0\Humanizer.dll
+E:\Adeeb\Assignment_Summit\EF_Unit_of_Works_Repository_Pattern\Basic.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 E:\Adeeb\Assignment_Summit\EF_Unit_of_Works_Repository_Pattern\Basic.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
 E:\Adeeb\Assignment_Summit\EF_Unit_of_Works_Repository_Pattern\Basic.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 E:\Adeeb\Assignment_Summit\EF_Unit_of_Works_Repository_Pattern\Basic.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
@@ -355,6 +356,7 @@ E:\Adeeb\Assignment_Summit\EF_Unit_of_Works_Repository_Pattern\Basic.WebApi\bin\
 E:\Adeeb\Assignment_Summit\EF_Unit_of_Works_Repository_Pattern\Basic.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
 E:\Adeeb\Assignment_Summit\EF_Unit_of_Works_Repository_Pattern\Basic.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
 E:\Adeeb\Assignment_Summit\EF_Unit_of_Works_Repository_Pattern\Basic.WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Adeeb\Assignment_Summit\EF_Unit_of_Works_Repository_Pattern\Basic.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
 E:\Adeeb\Assignment_Summit\EF_Unit_of_Works_Repository_Pattern\Basic.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
 E:\Adeeb\Assignment_Summit\EF_Unit_of_Works_Repository_Pattern\Basic.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
 E:\Adeeb\Assignment_Summit\EF_Unit_of_Works_Repository_Pattern\Basic.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
